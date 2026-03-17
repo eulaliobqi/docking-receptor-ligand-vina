@@ -1,4 +1,4 @@
-# Docking-receptor-ligand-vina
+# Docking Receptor-Ligand with Vina
 
 🧬 Molecular Docking Pipeline: Trypsin-like × Peptide
 
